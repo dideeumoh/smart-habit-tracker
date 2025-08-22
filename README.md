@@ -1,6 +1,6 @@
 # Smart Habit Tracker (Product Management Case Study)
 
-This repo documents my end-to-end PM case study for a Smart Habit Tracker app.  
+This repository documents my end-to-end PM case study for a Smart Habit Tracker app.  
 I used **Notion** for PRDs & Roadmap, **Balsamiq** for wireframes, and **GitHub** for documentation & portfolio.
 
 ### Contents
